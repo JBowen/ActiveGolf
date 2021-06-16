@@ -1,0 +1,20 @@
+[ActiveGolf-Booking]
+Username = 157073
+Password = ActiveGolf
+Date = 6/21/2021
+Time = 12:00
+Preferred Courses = 1006
+Preferred Courses Guide = 1006 is BraeBen Golf Course, 1009 is braeben par3 academy, 1010 is lakeview golf course - to do them all use: 1006,1009,1010   or any combination seperated by commas
+Players = 3
+Holes = 1
+First Name = Roger
+Last Name = Stone
+Address 1 = 123 sesame St
+Address 2 = 
+City = Oakdale
+State = CA
+Zip = 95361
+Home Phone = 
+Work Phone = 
+Mobile Phone = 
+Email = 
